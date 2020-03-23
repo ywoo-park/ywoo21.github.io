@@ -2,7 +2,7 @@
 layout: post
 title: "0년차 개발자 겸 창업자의 캠퍼스 O2O 서비스 런칭 과정"
 description: "0년차 개발자 겸 창업자의 캠퍼스 O2O 서비스 런칭 과정"
-date: 2012-05-22
+date: 2020-03-23
 tags: [sample post, readability, test, intro]
 comments: true
 share: true
