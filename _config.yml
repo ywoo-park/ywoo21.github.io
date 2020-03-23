@@ -32,10 +32,10 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "ywoo"
+  id:               "ywoo.park"
 
 # URL
-url:                "https://ywoo.github.io" # the base hostname & protocol for your site
+url:                "https://ywoo21.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/" # the subpath of your site, e.g. /blog
 
